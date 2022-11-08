@@ -1,0 +1,15 @@
+{
+  "name": "@pixelbrackets/barebone-stylesheet",
+  "version": "1.0.0",
+  "description": "Barebone Stylesheet - Just enough CSS to look great everywhere",
+  "main": "dist/barebone.css",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/pixelbrackets/barebone-stylesheet.git"
+  },
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://gitlab.com/pixelbrackets/barebone-stylesheet#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

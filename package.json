@@ -1,6 +1,6 @@
 {
   "name": "@pixelbrackets/barebone-stylesheet",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Barebone Stylesheet - Just enough CSS to look great everywhere",
   "main": "dist/barebone.css",
   "repository": {

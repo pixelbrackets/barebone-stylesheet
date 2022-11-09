@@ -37,3 +37,10 @@ pre > code {
   display: block;
   overflow-x: auto;
 }
+
+blockquote {
+  /*Primary color*/
+  border-left: 4px solid #1662af;
+  margin: 1.5em 0em;
+  padding: 0.5em 1em;
+}

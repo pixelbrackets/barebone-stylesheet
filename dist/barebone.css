@@ -1,4 +1,6 @@
 :root {
+  --primary-color: #1662af;
+
   max-width: 70ch;
   padding: 3em 1em;
   margin: auto;
@@ -19,8 +21,7 @@ p,ul,ol {
 }
 
 a {
-  /*Primary color*/
-  color: #1662af;
+  color: var(--primary-color);
 }
 
 img {
@@ -39,8 +40,7 @@ pre > code {
 }
 
 blockquote {
-  /*Primary color*/
-  border-left: 4px solid #1662af;
+  border-left: 4px solid var(--primary-color);
   margin: 1.5em 0em;
   padding: 0.5em 1em;
 }

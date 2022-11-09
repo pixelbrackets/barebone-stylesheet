@@ -54,6 +54,14 @@ Import the `barebone.css` file. That's it.
 
 📦 A minified version, named `barebone.min.css`, is available as well.
 
+💡 You may override the primary color, which is used for links and visual accents,
+with a single CSS variable setting:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pixelbrackets/barebone-stylesheet/dist/barebone.min.css" />
+<style>:root { --primary-color: purple; }</style>
+```
+
 ## License
 
 GNU General Public License version 2 or later

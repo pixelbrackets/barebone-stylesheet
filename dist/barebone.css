@@ -44,3 +44,18 @@ blockquote {
   margin: 1.5em 0em;
   padding: 0.5em 1em;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  padding: .5em;
+  text-align: left;
+}
+th {
+  border-bottom: 1px solid #f5f7f9;
+}
+tbody tr:nth-child(even) {
+  background-color: #f5f7f9;
+}

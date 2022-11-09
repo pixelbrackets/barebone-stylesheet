@@ -12,7 +12,7 @@ _⭐ You like this package? Please star it or send a tweet. ⭐_
 
 ## Vision
 
-This package provides a ready build stylesheet with just enough styles
+This package provides a ready build stylesheet with *just enough styles*
 to make a website look good everywhere.
 
 It is based on the three terrific articles
@@ -21,8 +21,13 @@ It is based on the three terrific articles
 - [100 Bytes of CSS to look great everywhere](https://www.swyx.io/css-100-bytes)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/#share)
 
-and aims to be one of the smallest stylesheets necessary to make textual content on
-MVP webapps readable and appealing.
+and aims to be one of the smallest stylesheets necessary to make *textual content* on
+MVP webapps *readable and appealing*.
+
+Default browser styles that look good enough will not be adjusted. More ambitious components
+like cards, secondary buttons, gradients, grids, nested content or dark-mode themes
+are not supported. If needed, then please use a CSS framework like
+[Skeleton](https://getskeleton.com/) or [Bootstrap](https://getbootstrap.com) instead.
 
 ## Requirements
 
@@ -61,6 +66,12 @@ with a single CSS variable setting:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pixelbrackets/barebone-stylesheet/dist/barebone.min.css" />
 <style>:root { --primary-color: purple; }</style>
 ```
+
+📄 *Hint: To generate a minimal site with valid markdown in no-time you may
+want to take a look at the PHP packages
+[pixelbrackets/html5-mini-template](https://packagist.org/packages/pixelbrackets/html5-mini-template)
+and
+[pixelbrackets/markdown-mini-page](https://packagist.org/packages/pixelbrackets/markdown-mini-page).*
 
 ## License
 

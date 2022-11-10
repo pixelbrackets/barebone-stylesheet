@@ -67,7 +67,7 @@ with a single CSS variable setting:
 <style>:root { --primary-color: purple; }</style>
 ```
 
-📄 *Hint: To generate a minimal site with valid markdown in no-time you may
+📄 *Hint: To generate a minimal site with valid markup in no-time you may
 want to take a look at the PHP packages
 [pixelbrackets/html5-mini-template](https://packagist.org/packages/pixelbrackets/html5-mini-template)
 and

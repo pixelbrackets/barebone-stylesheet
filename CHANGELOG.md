@@ -1,5 +1,10 @@
 # Changelog
 
+* 2022-11-10 Dan Untenzu <mail@pixelbrackets.de>
+
+  * 1.2.1
+  * BUGFIX Replace faulty wording in docs
+
 * 2022-11-09 Dan Untenzu <mail@pixelbrackets.de>
 
   * 1.2.0
